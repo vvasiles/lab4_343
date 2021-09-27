@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "117595069244",
+    "firebase_url": "https://lab4-67343-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lab4-67343",
+    "storage_bucket": "lab4-67343.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117595069244:android:3c8f4b35525bd30e731c39",
+        "android_client_info": {
+          "package_name": "com.vvasiles.chatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117595069244-sqmtkudifahns6mcdqh709pdgv9h1vmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9XrHJpngpXL_oPMhKWzzKIuvrAl_jqLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117595069244-sqmtkudifahns6mcdqh709pdgv9h1vmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
