@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.lab4">
+    package="com.vvvasiles.chatter">
    <application
         android:label="lab4"
         android:icon="@mipmap/ic_launcher">
